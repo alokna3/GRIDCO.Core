@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRIDCO.Core", "GRIDCO.Core.csproj", "{897CA9B0-7492-4486-BE0A-F4EF04A079AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRIDCO.Infrastructure", "..\Gridco.Infrastructure\GRIDCO.Infrastructure.csproj", "{160C5271-0295-4F55-818B-C9339928C619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRIDCO.Web", "..\GRIDCO.Web\GRIDCO.Web.csproj", "{1835F619-A67B-4D27-A282-1CA8A3C23C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRIDCO.SharedKernel", "..\GRIDCO.SharedKernel\GRIDCO.SharedKernel.csproj", "{2B20EAE2-55B4-45CF-977A-0A53B13E4FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{897CA9B0-7492-4486-BE0A-F4EF04A079AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897CA9B0-7492-4486-BE0A-F4EF04A079AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897CA9B0-7492-4486-BE0A-F4EF04A079AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897CA9B0-7492-4486-BE0A-F4EF04A079AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160C5271-0295-4F55-818B-C9339928C619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160C5271-0295-4F55-818B-C9339928C619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160C5271-0295-4F55-818B-C9339928C619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160C5271-0295-4F55-818B-C9339928C619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1835F619-A67B-4D27-A282-1CA8A3C23C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1835F619-A67B-4D27-A282-1CA8A3C23C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1835F619-A67B-4D27-A282-1CA8A3C23C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1835F619-A67B-4D27-A282-1CA8A3C23C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B20EAE2-55B4-45CF-977A-0A53B13E4FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B20EAE2-55B4-45CF-977A-0A53B13E4FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B20EAE2-55B4-45CF-977A-0A53B13E4FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B20EAE2-55B4-45CF-977A-0A53B13E4FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB7D279C-908F-4E10-AF04-6B90E1EE46AA}
+	EndGlobalSection
+EndGlobal
